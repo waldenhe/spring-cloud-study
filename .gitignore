@@ -1,5 +1,9 @@
 # Maven #
-target/
+target
+.mvn
+mvnw
+mvnw.cmd
+
 
 # IDEA #
 .idea/
